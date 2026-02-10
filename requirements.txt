@@ -1,0 +1,17 @@
+# PhantomSurface Requirements
+# Python 3.8+ required
+
+# Core Dependencies
+requests==2.31.0
+dnspython==2.4.2
+python-nmap==0.7.1
+networkx==3.2.1
+matplotlib==3.8.2
+Flask==3.0.0
+
+# Additional Dependencies
+urllib3==2.1.0
+Werkzeug==3.0.1
+
+# Optional for enhanced functionality
+colorama==0.4.6
